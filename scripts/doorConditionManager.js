@@ -72,7 +72,7 @@ export let doorConditions = {
   0: function () {
     if (game.frameNo % 50 == 0)
       testImage(
-        "https://kevinwh0.github.io/The-Bigger-Picture/The-Bigger-Picture/assets/tiles/Transparent.png"
+        "https://kevinwh0.github.io/TheBiggerPictureSource/assets/tiles/Transparent.png"
       );
     return offline;
   },
